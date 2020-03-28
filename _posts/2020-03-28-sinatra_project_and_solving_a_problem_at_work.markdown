@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project and solving a problem at work"
-date:       2020-03-28 16:02:28 +0000
+date:       2020-03-28 12:02:29 -0400
 permalink:  sinatra_project_and_solving_a_problem_at_work
 ---
 
